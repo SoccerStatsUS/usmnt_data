@@ -7,3 +7,7 @@ Generous information from Roger Allaway's personal archives.
 Additional sources listed in files.
 
 http://soccerstats.us/teams/united-states
+
+#### Processing code at
+
+http://github.com/chirs/aldo
